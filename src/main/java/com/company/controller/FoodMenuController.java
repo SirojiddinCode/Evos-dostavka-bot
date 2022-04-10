@@ -42,7 +42,7 @@ public class FoodMenuController {
         sendPhoto.setChatId(message.getChatId().toString());
         String text = message.getText();
         userCurrentMenu.put(message.getChatId().toString(),text);
-        InputFile inputFile = new InputFile(new File("D:/JAVA/Java-lesson/Kurs_ishi/src/main/resources/photo/"
+        InputFile inputFile = new InputFile(new File("src/main/resources/photo/"
                 + text + ".png"));
         switch (text) {
             case "Set":
