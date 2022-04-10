@@ -1,0 +1,40 @@
+FITTER#20000
+Beef lavash kalampir#22000
+Chicken lavash Kalampir#20000
+Beef lavash#22000
+Chicken lavash#20000
+Chicken lavash with cheese#22000
+Beef lavash with cheese#24000
+Kids COMBO#15000
+Beef donar#18000
+Chicken donar#16000
+Shawarma beef#19000
+Chicken shawarma#18000
+Spicy chicken shawarma#20000
+Beef Shawarma Spicy#24000
+Hamburger#18000
+Doubleburger#20000
+DoubleCheeseburger#22000
+Cheeseburger#20000
+Hot Dog Baguette#14000
+Hot Dog Baguette Double#16000
+Classic hot dog#15000
+Hot Dog Kids#10000
+Pepsi 0.5#7000
+Water 0.5#5000
+baby juice#6000
+Coffee 3 in 1#6000
+Coffee black#7000
+Pepsi 1.5#12000
+Juice Bliss#12000
+pepsi spill#8000
+Mayonnaise#8000
+Ketchup#9000
+Potatoes#9000
+Rice#10000
+Salad#9000
+Chicken fillet#14000
+Cheese sauce#12000
+Potato fries#5000
+Garlic Sause#9000
+Chili sauce#7000
